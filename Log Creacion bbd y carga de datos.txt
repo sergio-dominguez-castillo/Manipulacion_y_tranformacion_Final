@@ -1,0 +1,51 @@
+C:\Users\User>cd C:\Users\User\Desktop\Carpetas\Data Science - Desafio Latam\3  Programacion con Python para el analisis de datos\DesafioFinal
+
+C:\Users\User\Desktop\Carpetas\Data Science - Desafio Latam\3  Programacion con Python para el analisis de datos\DesafioFinal>psql -h localhost -p 5432 -U postgres -c "CREATE DATABASE classicmodels"
+Contraseña para usuario postgres:
+CREATE DATABASE
+
+C:\Users\User\Desktop\Carpetas\Data Science - Desafio Latam\3  Programacion con Python para el analisis de datos\DesafioFinal>psql -h localhost -p 5432 -U postgres -d classicmodels -f classicmodels.sql
+Contraseña para usuario postgres:
+SET
+SET
+SET
+SET
+SET
+ set_config
+------------
+
+(1 fila)
+
+
+SET
+SET
+SET
+SET
+SET
+SET
+CREATE TABLE
+ALTER TABLE
+CREATE TABLE
+ALTER TABLE
+CREATE TABLE
+ALTER TABLE
+CREATE TABLE
+ALTER TABLE
+CREATE TABLE
+ALTER TABLE
+CREATE TABLE
+ALTER TABLE
+CREATE TABLE
+ALTER TABLE
+CREATE TABLE
+ALTER TABLE
+COPY 122
+COPY 23
+COPY 7
+COPY 2996
+COPY 326
+COPY 273
+COPY 7
+COPY 110
+
+C:\Users\User\Desktop\Carpetas\Data Science - Desafio Latam\3  Programacion con Python para el analisis de datos\DesafioFinal>
